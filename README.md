@@ -8,6 +8,8 @@ Contains the Kubernetes cluster related Infrastructure as code (IaC) of the [RMS
 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
+[Ver no Terraform Cloud](https://app.terraform.io/app/Grupo-G03-4SOAT-FIAP/workspaces/rms-k8s)↗️
+
 ## Pré-requisitos
 
 Você deve ter instalado o [Terraform CLI](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli), a [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html), o [kubectl](https://kubernetes.io/docs/tasks/tools/) e possuir uma conta na AWS.
