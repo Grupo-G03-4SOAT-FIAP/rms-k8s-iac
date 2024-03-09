@@ -8,6 +8,9 @@ Contains the Kubernetes cluster related Infrastructure as code (IaC) of the [RMS
 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
+> [!IMPORTANT]  
+> O código nesse repositório foi movido e unificado em https://github.com/Grupo-G03-4SOAT-FIAP/rms-iac
+
 [Ver no Terraform Cloud](https://app.terraform.io/app/Grupo-G03-4SOAT-FIAP/workspaces/rms-k8s)↗️
 
 ## Pré-requisitos
