@@ -1,8 +1,8 @@
 # rms-k8s-iac
 Contains the Kubernetes cluster related Infrastructure as code (IaC) of the [RMS project](https://github.com/Grupo-G03-4SOAT-FIAP/rms-bff).
 
-[badge do CD aqui]
-[badge do CI aqui]
+[![Terraform Apply](https://github.com/Grupo-G03-4SOAT-FIAP/rms-k8s-iac/actions/workflows/terraform-apply.yml/badge.svg)](https://github.com/Grupo-G03-4SOAT-FIAP/rms-k8s-iac/actions/workflows/terraform-apply.yml)
+[![Terraform Plan](https://github.com/Grupo-G03-4SOAT-FIAP/rms-k8s-iac/actions/workflows/terraform-plan.yml/badge.svg)](https://github.com/Grupo-G03-4SOAT-FIAP/rms-k8s-iac/actions/workflows/terraform-plan.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Grupo-G03-4SOAT-FIAP_rms-k8s-iac&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Grupo-G03-4SOAT-FIAP_rms-k8s-iac)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Grupo-G03-4SOAT-FIAP_rms-k8s-iac&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Grupo-G03-4SOAT-FIAP_rms-k8s-iac)
 
